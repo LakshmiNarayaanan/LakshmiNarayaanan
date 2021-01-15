@@ -4,11 +4,8 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lakshmi24460249?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)](https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)
+![GitHub followers](https://img.shields.io/github/followers/LakshmiNarayaanan?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -24,7 +21,6 @@ const lakshmi_narayanan = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"],
             java : ["Spring boot"]
         },
         databases: ["mongo", "MySql", "neo4j"],
