@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lakshmi24460249?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)](https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)
+[![Linkedin: anmol](https://img.shields.io/badge/-LakshmiNarayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)](https://www.linkedin.com/in/lakshmi-narayanan-701a57127/)
 ![GitHub followers](https://img.shields.io/github/followers/LakshmiNarayaanan?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
